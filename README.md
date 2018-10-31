@@ -10,6 +10,7 @@ https://github.com/PacktPublishing/Scala-and-Spark-for-Big-Data-Analytics
 https://medium.com/@mrpowers/working-with-s3-and-spark-locally-1374bb0a354  
 https://towardsdatascience.com/end-to-end-distributed-ml-using-aws-emr-apache-spark-pyspark-and-mongodb-tutorial-with-4d1077f68381  
 https://szczeles.github.io/Reading-JSON-CSV-and-XML-files-efficiently-in-Apache-Spark/  
+https://hk.saowen.com/a/56b1ad154ff5b32ee3598246ece882751e9251698bbf1fce9ef3ecc1a135c506  
 
 
 Videos:  
