@@ -6,6 +6,8 @@ https://github.com/databricks/Spark-The-Definitive-Guide/tree/master/code
 https://github.com/awesome-spark/awesome-spark  
 https://github.com/Azure/mmlspark  
 https://changhsinlee.com/pyspark-dataframe-basics/  
+https://github.com/PacktPublishing/Scala-and-Spark-for-Big-Data-Analytics  
+https://medium.com/@mrpowers/working-with-s3-and-spark-locally-1374bb0a354  
 
 
 Videos:  
