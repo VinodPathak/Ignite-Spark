@@ -8,6 +8,8 @@ https://github.com/Azure/mmlspark
 https://changhsinlee.com/pyspark-dataframe-basics/  
 https://github.com/PacktPublishing/Scala-and-Spark-for-Big-Data-Analytics  
 https://medium.com/@mrpowers/working-with-s3-and-spark-locally-1374bb0a354  
+https://towardsdatascience.com/end-to-end-distributed-ml-using-aws-emr-apache-spark-pyspark-and-mongodb-tutorial-with-4d1077f68381  
+https://szczeles.github.io/Reading-JSON-CSV-and-XML-files-efficiently-in-Apache-Spark/  
 
 
 Videos:  
