@@ -12,3 +12,7 @@ Videos:
 https://www.brighttalk.com/webcast/12891/309475/getting-started-with-apache-spark-on-azure-databricks  
 https://www.brighttalk.com/webcast/12891/256095?utm_campaign=channel-feed&utm_source=brighttalk-portal&utm_medium=web  
 https://www.brighttalk.com/webcast/12891/190363/jump-start-into-apache-spark-and-databricks  
+
+
+https://www.youtube.com/watch?v=fROnFlD3Isw  
+https://www.youtube.com/watch?v=OheiUl_uXwo&t=3289s  
