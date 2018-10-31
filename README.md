@@ -30,3 +30,6 @@ https://docs.databricks.com/spark/latest/data-sources/zip-files.html
 
 ## Read CSV, JSON, XML  
 https://szczeles.github.io/Reading-JSON-CSV-and-XML-files-efficiently-in-Apache-Spark/    
+
+## Pyspark API  
+https://spark.apache.org/docs/2.2.0/api/python/pyspark.sql.html#pyspark.sql.DataFrameReader  
