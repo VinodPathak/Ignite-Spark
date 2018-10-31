@@ -9,7 +9,6 @@ https://changhsinlee.com/pyspark-dataframe-basics/
 https://github.com/PacktPublishing/Scala-and-Spark-for-Big-Data-Analytics  
 https://medium.com/@mrpowers/working-with-s3-and-spark-locally-1374bb0a354  
 https://towardsdatascience.com/end-to-end-distributed-ml-using-aws-emr-apache-spark-pyspark-and-mongodb-tutorial-with-4d1077f68381  
-https://szczeles.github.io/Reading-JSON-CSV-and-XML-files-efficiently-in-Apache-Spark/  
 https://hk.saowen.com/a/56b1ad154ff5b32ee3598246ece882751e9251698bbf1fce9ef3ecc1a135c506  
 
 
@@ -25,3 +24,9 @@ https://www.youtube.com/watch?v=OheiUl_uXwo&t=3289s
 
 ## Mount S3  
 https://docs.databricks.com/spark/latest/data-sources/aws/amazon-s3.html#mount-an-s3-bucket  
+
+## ZIP File to DBFS  
+https://docs.databricks.com/spark/latest/data-sources/zip-files.html  
+
+## Read CSV, JSON, XML  
+https://szczeles.github.io/Reading-JSON-CSV-and-XML-files-efficiently-in-Apache-Spark/    
