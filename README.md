@@ -24,6 +24,8 @@ https://www.youtube.com/watch?v=OheiUl_uXwo&t=3289s
 
 ## Mount S3  
 https://docs.databricks.com/spark/latest/data-sources/aws/amazon-s3.html#mount-an-s3-bucket  
+https://docs.databricks.com/spark/latest/data-sources/sql-databases.html#python-example   
+
 
 ## ZIP File to DBFS  
 https://docs.databricks.com/spark/latest/data-sources/zip-files.html  
