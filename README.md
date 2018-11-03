@@ -35,3 +35,5 @@ https://szczeles.github.io/Reading-JSON-CSV-and-XML-files-efficiently-in-Apache-
 
 ## Pyspark API  
 https://spark.apache.org/docs/2.2.0/api/python/pyspark.sql.html#pyspark.sql.DataFrameReader  
+
+https://db-blog.web.cern.ch/blog/luca-canali/2017-06-diving-spark-and-parquet-workloads-example  
