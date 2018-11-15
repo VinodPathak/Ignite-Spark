@@ -10,6 +10,13 @@ http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/
 https://rea.tech/how-we-optimize-apache-spark-apps/  
 https://community.hortonworks.com/questions/56240/spark-num-executors-setting.html  
 https://researchcomputing.princeton.edu/computational-hardware/hadoop/spark-memory  
+http://wanwenli.com/spark/2018/04/02/spark-executor-cores.html  
+https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-perf  
+https://www.slideshare.net/OmidVahdaty/emr-spark-tuning-demystified  
+https://www.alibabacloud.com/help/doc-detail/28124.htm  
+https://www.talend.com/blog/2018/04/12/apache-spark-performance-and-tuning-blog/  
+http://www.cloudera.com/documentation/enterprise/latest/PDF/cloudera-spark.pdf  
+https://altis.com.au/optimizing-performance-spark-streaming-applications-aws-emr/  
 
 
 Properties:  
